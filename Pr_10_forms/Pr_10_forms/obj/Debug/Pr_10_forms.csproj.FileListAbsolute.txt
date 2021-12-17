@@ -1,0 +1,10 @@
+D:\Studia\Pr_10_forms\Pr_10_forms\bin\Debug\Pr_10_forms.exe.config
+D:\Studia\Pr_10_forms\Pr_10_forms\bin\Debug\Pr_10_forms.exe
+D:\Studia\Pr_10_forms\Pr_10_forms\bin\Debug\Pr_10_forms.pdb
+D:\Studia\Pr_10_forms\Pr_10_forms\obj\Debug\Pr_10_forms.csproj.AssemblyReference.cache
+D:\Studia\Pr_10_forms\Pr_10_forms\obj\Debug\Pr_10_forms.Form1.resources
+D:\Studia\Pr_10_forms\Pr_10_forms\obj\Debug\Pr_10_forms.Properties.Resources.resources
+D:\Studia\Pr_10_forms\Pr_10_forms\obj\Debug\Pr_10_forms.csproj.GenerateResource.cache
+D:\Studia\Pr_10_forms\Pr_10_forms\obj\Debug\Pr_10_forms.csproj.CoreCompileInputs.cache
+D:\Studia\Pr_10_forms\Pr_10_forms\obj\Debug\Pr_10_forms.exe
+D:\Studia\Pr_10_forms\Pr_10_forms\obj\Debug\Pr_10_forms.pdb
